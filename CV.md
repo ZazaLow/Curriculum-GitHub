@@ -11,6 +11,8 @@
 - **LinkedIn**: [linkedin.com/in/izanperez]
 - **GitHub**: [github.com/izanperez]
 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos%2Fhombre&psig=AOvVaw1NsLxTrbKZVV9H9pKYn1pd&ust=1749195119714000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjt-9_h2Y0DFQAAAAAdAAAAABAL"  alt="Foto 100% mía, jurao" style="float; width: 150px; height: auto; margin-left: 20px;"/>
+
 ---
 
 ##  Perfil Profesional

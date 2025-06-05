@@ -4,7 +4,7 @@ Este documento presenta las 10 licencias más comunes en la industria del softwa
 
 ---
 
-## 📊 Tabla resumen de licencias
+## Tabla resumen de licencias
 
 | Tipo de Licencia            | Permite Uso Comercial | Requiere Divulgación del Código | Protege Patentes | Tipo           |
 |----------------------------|------------------------|-------------------------------|------------------|----------------|
@@ -21,7 +21,7 @@ Este documento presenta las 10 licencias más comunes en la industria del softwa
 
 ---
 
-## 📋 Descripción de Licencias
+## Descripción de Licencias
 
 ### 1. **MIT License**
 - Muy popular y simple.
